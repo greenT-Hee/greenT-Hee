@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=6bd17f&height=100&section=header&text=🍒%20Welcome!%20Taehee's%20world&fontSize=38&fontColor=ffffff)
 
+## Tools
 
+<img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white&logoWidth=50&link=https://github.com/greenT-Hee//right"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white&logoWidth=50&link=https://github.com/greenT-Hee//right"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=GitHub&logoColor=white&logoWidth=40&link=https://github.com/greenT-Hee//right"/>
 
 
 <!--
