@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=6bd17f&height=100&section=header&text=🍒%20Welcome!%20Taehee's%20world&fontSize=32&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=6bd17f&height=100&section=header&text=🍒%20Welcome!%20Taehee's%20world&fontSize=32&fontColor=ffffff)
 <br>
 <br>
 
