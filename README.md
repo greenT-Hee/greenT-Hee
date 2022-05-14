@@ -2,7 +2,7 @@
 <br>
 <br>
 
-### 🛠 To 🛠
+### 🛠 Tools 🛠
 
 <img src="https://img.shields.io/badge/GitHub-7a7a7a?style=flat&logo=GitHub&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Git-7a7a7a?style=flat&logo=Git&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Visual Studio Code-7a7a7a?style=flat&logo=Visual Studio Code&logoColor=white&logoWidth=40"/>  <br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-7a7a7a?style=flat&logo=Adobe Photoshop&logoColor=white&logoWidth=40"/>
