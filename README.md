@@ -4,12 +4,12 @@
 
 ### 🛠 Tools 🛠
 
-<img src="https://img.shields.io/badge/GitHub-7a7a7a?style=flat&logo=GitHub&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Git-7a7a7a?style=flat&logo=Git&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Visual Studio Code-7a7a7a?style=flat&logo=Visual Studio Code&logoColor=white&logoWidth=40"/>  <br>
-<img src="https://img.shields.io/badge/Adobe Photoshop-7a7a7a?style=flat&logo=Adobe Photoshop&logoColor=white&logoWidth=40"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-7a7a7a?style=flat&logo=Adobe Illustrator&logoColor=white&logoWidth=40"/>
+<img src="https://img.shields.io/badge/GitHub-cfcfcf?style=flat&logo=GitHub&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Git-cfcfcf?style=flat&logo=Git&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Visual Studio Code-cfcfcf?style=flat&logo=Visual Studio Code&logoColor=white&logoWidth=40"/>  <br>
+<img src="https://img.shields.io/badge/Adobe Photoshop-cfcfcf?style=flat&logo=Adobe Photoshop&logoColor=white&logoWidth=40"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-cfcfcf?style=flat&logo=Adobe Illustrator&logoColor=white&logoWidth=40"/>
 <br>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-7a7a7a?style=flat&logo=Adobe Premiere Pro&logoColor=white&logoWidth=40"/>
-<img src="https://img.shields.io/badge/Adobe After Effects-7a7a7a?style=flat&logo=Adobe After Effects&logoColor=white&logoWidth=50"/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-cfcfcf?style=flat&logo=Adobe Premiere Pro&logoColor=white&logoWidth=40"/>
+<img src="https://img.shields.io/badge/Adobe After Effects-cfcfcf?style=flat&logo=Adobe After Effects&logoColor=white&logoWidth=50"/>
 
 
 <!--
