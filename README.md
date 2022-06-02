@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=cfa8ff&height=60&section=header&text=💻%20Welcome%20to%20my%20Github!&fontSize=24&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a869f5&height=220&section=header&text=😼%20Taehee%20Kim&fontSize=40&fontColor=ffffff&animation=twinkling)
 <br>
 <br>
 
