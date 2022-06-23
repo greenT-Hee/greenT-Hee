@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a869f5&height=220&section=header&text=😼%20Taehee%20Kim&fontSize=40&fontColor=ffffff&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=a869f5&height=220&section=header&text=😼%20Taehee%20Kim&fontSize=40&fontColor=ffffff&animation=twinkling) -->
+
+# `<hello> I'm Taehee <world/>` 
 <br>
-<br>
+
 
 ### 🛠 Tools 🛠
 
