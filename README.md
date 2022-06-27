@@ -11,26 +11,26 @@
 
 <div align ="center">
  <h2>🛠 Tools </h2>
-<img src="https://img.shields.io/badge/GitHub-bab1f2?style=plastic&logo=GitHub&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Git-bab1f2?style=plastic&logo=Git&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Visual Studio Code-bab1f2?style=plastic&logo=Visual Studio Code&logoColor=white&logoWidth=40"/>
-<img src="https://img.shields.io/badge/Node.js-bab1f2?style=plastic&logo=Node.js&logoColor=white&logoWidth=40"/> 
+<img src="https://img.shields.io/badge/GitHub-c5a6ff?style=flat&logo=GitHub&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Git-c5a6ff?style=flat&logo=Git&logoColor=white&logoWidth=40"/> <img src="https://img.shields.io/badge/Visual Studio Code-c5a6ff?style=flat&logo=Visual Studio Code&logoColor=white&logoWidth=40"/>
+<img src="https://img.shields.io/badge/Node.js-c5a6ff?style=flat&logo=Node.js&logoColor=white&logoWidth=40"/> 
    <br>
-<img src="https://img.shields.io/badge/Jira-cfc7ff?style=plastic&logo=Jira&logoColor=white&logoWidth=40"/> 
-<img src="https://img.shields.io/badge/Slack-cfc7ff?style=plastic&logo=Slack&logoColor=white&logoWidth=40"/> 
-<img src="https://img.shields.io/badge/Notion-cfc7ff?style=plastic&logo=Notion&logoColor=white&logoWidth=40"/> 
+<img src="https://img.shields.io/badge/Jira-cbb1fc?style=flat&logo=Jira&logoColor=white&logoWidth=40"/> 
+<img src="https://img.shields.io/badge/Slack-cbb1fc?style=flat&logo=Slack&logoColor=white&logoWidth=40"/> 
+<img src="https://img.shields.io/badge/Notion-cbb1fc?style=flat&logo=Notion&logoColor=white&logoWidth=40"/> 
    <br>
-<img src="https://img.shields.io/badge/Adobe Photoshop-e7e3ff?style=plastic&logo=Adobe Photoshop&logoColor=white&logoWidth=40"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-e7e3ff?style=plastic&logo=Adobe Illustrator&logoColor=white&logoWidth=40"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-dcc9ff?style=flat&logo=Adobe Photoshop&logoColor=white&logoWidth=40"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-dcc9ff?style=flat&logo=Adobe Illustrator&logoColor=white&logoWidth=40"/>
  
  </div>
 <br>
 
 <div align ="center">
  <h2>⌨ Skills </h2>
-<img src="https://img.shields.io/badge/HTML5-e0a8e0?style=plastic&logo=HTML5&logoColor=white&logoWidth=40"/> 
-<img src="https://img.shields.io/badge/CSS3-e0a8e0?style=plastic&logo=CSS3&logoColor=white&logoWidth=40"/>  
+<img src="https://img.shields.io/badge/HTML5-e0a8e0?style=flat&logo=HTML5&logoColor=white&logoWidth=40"/> 
+<img src="https://img.shields.io/badge/CSS3-e0a8e0?style=flat&logo=CSS3&logoColor=white&logoWidth=40"/>  
  <br>
-<img src="https://img.shields.io/badge/React-eccbf5?style=plastic&logo=React&logoColor=white&logoWidth=40"/> 
-<img src="https://img.shields.io/badge/JavaScript-eccbf5?style=plastic&logo=JavaScript&logoColor=white&logoWidth=40"/> 
+<img src="https://img.shields.io/badge/React-eccbf5?style=flat&logo=React&logoColor=white&logoWidth=40"/> 
+<img src="https://img.shields.io/badge/JavaScript-eccbf5?style=flat&logo=JavaScript&logoColor=white&logoWidth=40"/> 
 
 
  </div>
