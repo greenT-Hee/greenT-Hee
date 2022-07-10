@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=a869f5&height=220&section=header&text=😼%20Taehee%20Kim&fontSize=40&fontColor=ffffff&animation=twinkling) -->
 
-<h1 align="center">Hello, I'm Taehee!</h1>
+<h1 align="left">Hello, I'm Taehee!</h1>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenT-Hee&theme=buefy&show_icons=true&hide=stars,issues&cache_seconds=86400)
