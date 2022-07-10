@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Taehee!</h1>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenT-Hee&theme=rose_pine&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenT-Hee&theme=material-palenight&show_icons=true&hide=stars,issues&cache_seconds=86400)
 
 <br>
 
